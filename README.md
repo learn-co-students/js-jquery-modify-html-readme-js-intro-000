@@ -8,7 +8,7 @@
 
 ## Inline jQuery
 
-We're going to use jQuery to add some text to our HTML page.
+We're going to use jQuery to add some text to our HTML page. estas change
 
 ### Include jQuery Link
 
